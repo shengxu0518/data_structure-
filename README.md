@@ -1,2 +1,2 @@
-# data_structure-
-basic data structure 
+# Basic Data Structure 
+The codes here are some solutions to exercises in the book called "Cracking the coding interview".
